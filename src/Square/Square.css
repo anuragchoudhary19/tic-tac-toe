@@ -1,0 +1,10 @@
+.square {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  font-size: 2rem;
+  border: 1px solid hwb(60 82% 20%);
+  background-color: lightgoldenrodyellow;
+}
